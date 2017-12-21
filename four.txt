@@ -1,6 +1,6 @@
 Line One
 
-
+Line Before stash
 
 
 Line Two
